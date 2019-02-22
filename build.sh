@@ -1,0 +1,1 @@
+sudo docker build -t "msca/apache2-reverse-proxy-with-php" .
